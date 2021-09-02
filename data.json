@@ -1,0 +1,8 @@
+{
+  "person": [
+    { "name": "Rahim", "age": 20, "home": "Dhaka", "married": false },
+    { "name": "Ehsan", "age": 25, "home": "Ctg", "married": true },
+    { "name": "Nasir", "age": 23, "home": "Dhaka", "married": false },
+    { "name": "Sadik", "age": 24, "home": "Demra", "married": false }
+  ]
+}
